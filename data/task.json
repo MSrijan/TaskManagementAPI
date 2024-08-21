@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "task": "Wake Up",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "task": "Go College",
+    "status": "Ongoing"
+  },
+  {
+    "id": 3,
+    "task": "Go Home",
+    "status": "Missed"
+  },
+  {
+    "id": 4,
+    "task": "Pending",
+    "status": "Pending"
+  }
+]
